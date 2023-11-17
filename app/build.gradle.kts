@@ -11,8 +11,8 @@ android {
         applicationId = "com.yildirimomer01.folkz"
         minSdk = 24
         targetSdk = 33
-        versionCode = 4
-        versionName = "1.4"
+        versionCode = 1
+        versionName = "1.0"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
         vectorDrawables {
